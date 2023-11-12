@@ -5,6 +5,8 @@ VisualStudioVersion = 17.7.34031.279
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Gratii_Stanislav_TEMA4", "Gratii_Stanislav_TEMA4\Gratii_Stanislav_TEMA4.csproj", "{C8EABA0B-36FF-4E39-8BE4-65908E5D85D2}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Gratii_Stanislav_Tema5", "Gratii_Stanislav_Tema5\Gratii_Stanislav_Tema5.csproj", "{B358F8A3-716E-4840-AD7D-C44C4F33728F}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -15,6 +17,10 @@ Global
 		{C8EABA0B-36FF-4E39-8BE4-65908E5D85D2}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{C8EABA0B-36FF-4E39-8BE4-65908E5D85D2}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{C8EABA0B-36FF-4E39-8BE4-65908E5D85D2}.Release|Any CPU.Build.0 = Release|Any CPU
+		{B358F8A3-716E-4840-AD7D-C44C4F33728F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B358F8A3-716E-4840-AD7D-C44C4F33728F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B358F8A3-716E-4840-AD7D-C44C4F33728F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B358F8A3-716E-4840-AD7D-C44C4F33728F}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

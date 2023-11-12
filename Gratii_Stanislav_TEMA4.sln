@@ -7,8 +7,6 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Gratii_Stanislav_TEMA4", "G
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Gratii_Stanislav_Tema5", "Gratii_Stanislav_Tema5\Gratii_Stanislav_Tema5.csproj", "{B358F8A3-716E-4840-AD7D-C44C4F33728F}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "LAB3_Gratii_Stanislav", "..\LAB3_Gratii_Stanislav\LAB3_Gratii_Stanislav\LAB3_Gratii_Stanislav.csproj", "{1B70D402-7B56-4B24-B2F3-4263AA4E6FAA}"
-EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -23,10 +21,6 @@ Global
 		{B358F8A3-716E-4840-AD7D-C44C4F33728F}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{B358F8A3-716E-4840-AD7D-C44C4F33728F}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{B358F8A3-716E-4840-AD7D-C44C4F33728F}.Release|Any CPU.Build.0 = Release|Any CPU
-		{1B70D402-7B56-4B24-B2F3-4263AA4E6FAA}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
-		{1B70D402-7B56-4B24-B2F3-4263AA4E6FAA}.Debug|Any CPU.Build.0 = Debug|Any CPU
-		{1B70D402-7B56-4B24-B2F3-4263AA4E6FAA}.Release|Any CPU.ActiveCfg = Release|Any CPU
-		{1B70D402-7B56-4B24-B2F3-4263AA4E6FAA}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

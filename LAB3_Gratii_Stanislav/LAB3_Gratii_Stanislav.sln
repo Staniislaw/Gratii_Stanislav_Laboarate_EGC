@@ -1,0 +1,32 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.7.34031.279
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "LAB3_Gratii_Stanislav", "LAB3_Gratii_Stanislav\LAB3_Gratii_Stanislav.csproj", "{1B70D402-7B56-4B24-B2F3-4263AA4E6FAA}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Элементы решения", "Элементы решения", "{9EDAC2A0-B226-4E7B-B03E-3751133BEE5A}"
+	ProjectSection(SolutionItems) = preProject
+		..\Gratii_Stanislav_TEMA4\.gitattributes = ..\Gratii_Stanislav_TEMA4\.gitattributes
+		..\Gratii_Stanislav_TEMA4\.gitignore = ..\Gratii_Stanislav_TEMA4\.gitignore
+		..\Gratii_Stanislav_TEMA4\Gratii_Stanislav_TEMA4.sln = ..\Gratii_Stanislav_TEMA4\Gratii_Stanislav_TEMA4.sln
+	EndProjectSection
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{1B70D402-7B56-4B24-B2F3-4263AA4E6FAA}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{1B70D402-7B56-4B24-B2F3-4263AA4E6FAA}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{1B70D402-7B56-4B24-B2F3-4263AA4E6FAA}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{1B70D402-7B56-4B24-B2F3-4263AA4E6FAA}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {46ACB833-C9F6-4402-B641-F052B82FA17B}
+	EndGlobalSection
+EndGlobal
